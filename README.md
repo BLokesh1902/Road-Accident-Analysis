@@ -1,14 +1,3 @@
 # Road-Accident-Analysis
 
-DESCRIPTION : Accident Analysis & Prevention provides wide coverage of the general areas relating to accidental injury and damage, including the pre-injury and immediate post-injury phases.
-
-TOOLS USED : Power BI To analyze, I did data cleaning in Power Query, used Time intelligence Function/ Calendar Date Table in Power BI, Data Modelling(Relationship between multiple tables) , YTD and Y0Y Growth Calculations using DAX, KPI and Advanced Generations, Created Custom columns and measures in the reports, Import Images.
-
-AREAS TO BE ANALYSED :
-
-Primary KPI- Total Casualties and Total Accident values for Current Year and YoY growth.
-Primary KPI- Total Casualties by Accident Severity for Current Year and YoY growth.
-Secondary KPI's - Total Casualties with respect to vehicle type for current Year.
-Monthly trend showing comparison of casualties for Current Year and Previous Year.
-Casualties by Road Type for Current year.
-Current Year Casualties by Area/Location & by Day/ Night
+This Project aims to provide insightful and comprehensive analysis of road accidents using the powerful data visualization capabilities of Microsoft Power BI. This project utilizes real-world data related to road accidents, such as accident locations, causes, vehicle types, and associated factors, to extract valuable insights and support evidence-based decision-making in the field of road safety. The insights derived from the project can be used to implement targeted interventions, enhance road safety measures, and ultimately reduce the frequency and severity of road accidents, leading to safer transportation systems for communities.
